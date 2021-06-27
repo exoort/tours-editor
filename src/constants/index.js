@@ -1,0 +1,4 @@
+export const TRANSFERED_PRODUCT_TYPES = {
+  INCLUDE: 'INCLUDE',
+  PASS: 'PASS'
+}
